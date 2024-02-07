@@ -1,3 +1,7 @@
+## Hangman
+
+This will work out of the box. It'll take a list of words and choose one at random to allow guessing with. It'll draw an SVG of the hangman as needed, allow keyboard input or mouse and track wins and losses.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
